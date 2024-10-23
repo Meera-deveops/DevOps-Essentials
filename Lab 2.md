@@ -48,7 +48,7 @@ sudo apt install git -y
 ```
 Clone the existing directory
 ```
-git clone https://github.com/PS-Nafis/DevOps-Training-Hello-World-App.git
+git clone https://github.com/Mehar-Nafis/DevOps-Training-Hello-World-App.git
 ```
 ```
 cd DevOps-Training-Hello-World-App/
